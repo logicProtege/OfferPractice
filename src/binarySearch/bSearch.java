@@ -2,6 +2,7 @@ package binarySearch;
 
 public class bSearch {
 
+	//this is a test 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] test1 = new int[]{2,4,5,8,10,13};
